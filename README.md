@@ -42,4 +42,14 @@ matplotlib to create a summary DataFrame of the data grouped by Rural, Urban and
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/103302566/168511393-ba2dc7ca-bb4a-4b62-a9da-f8509a006249.png)
 
 
-From the data 
+From the data above, we can see that the Urban cities were the most profitable doing ride-sharing.  
+They had 1625 total rides, 2405 total drivers, $39,854.38 in fares and their average price her ride was 
+$24.53. Rural cities had the least number of rides at 125, the least drivers and the lowest total fares at $4,327.93; however,
+rural cities had the highest average price per fare. In Uran cities, the supply is higher than the demand for ride-sharing,
+so the prices have to be lower in order to encourage people to use this service. However, in the rural cities, demand is higher 
+than the supply, so there is less drivers for the number of rides demanded. Therefore, more money will be charged in the rural cities.
+
+
+## Summary
+
+
