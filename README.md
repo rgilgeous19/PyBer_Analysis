@@ -32,3 +32,14 @@ matplotlib to create a summary DataFrame of the data grouped by Rural, Urban and
 ![Fig7](https://user-images.githubusercontent.com/103302566/168510964-4d9fbc9a-e602-417b-86e5-21fd74f5a2c7.png)
 
 
+### Average Fare per Ride and Driver by City Type
+
+![Fig1](https://user-images.githubusercontent.com/103302566/168511043-1ecb9033-1679-47ff-8cf3-e362e674dbed.png)
+
+
+### Total Fare by City Type from January to Arpil
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/103302566/168511393-ba2dc7ca-bb4a-4b62-a9da-f8509a006249.png)
+
+
+From the data 
